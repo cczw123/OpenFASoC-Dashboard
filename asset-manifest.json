@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/OpenFASoC-Dashboard/static/css/main.8c7ffda1.css",
-    "main.js": "/OpenFASoC-Dashboard/static/js/main.440a89d7.js",
+    "main.js": "/OpenFASoC-Dashboard/static/js/main.810bce1c.js",
     "static/media/profile.jpeg": "/OpenFASoC-Dashboard/static/media/profile.992e967dec7f36d9871c.jpeg",
     "index.html": "/OpenFASoC-Dashboard/index.html",
     "main.8c7ffda1.css.map": "/OpenFASoC-Dashboard/static/css/main.8c7ffda1.css.map",
-    "main.440a89d7.js.map": "/OpenFASoC-Dashboard/static/js/main.440a89d7.js.map"
+    "main.810bce1c.js.map": "/OpenFASoC-Dashboard/static/js/main.810bce1c.js.map"
   },
   "entrypoints": [
     "static/css/main.8c7ffda1.css",
-    "static/js/main.440a89d7.js"
+    "static/js/main.810bce1c.js"
   ]
 }
